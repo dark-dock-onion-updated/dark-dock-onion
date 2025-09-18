@@ -72,3 +72,5 @@ Store your mnemonic code securely in a separate, offline location. Never store t
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/snapshots/notification.webp" alt="DarkDock Login" style="max-width: 100%;"></a>
 
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/snapshots/web.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
+
+Update:  18 September I'm happy to report that the link is now accessible.
